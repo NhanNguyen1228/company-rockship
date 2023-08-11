@@ -1,0 +1,52 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.why-distrio .why-title {
+  font-size: 36px;
+  color: #464646;
+  padding: 50px 0;
+  margin: 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+.why-distrio .why-card {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.why-distrio .why-card .why-card-item {
+  width: 360px;
+  height: 335px;
+  margin-right: 40px;
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.why-distrio .why-card .why-card-item:nth-child(3) {
+  margin-right: 0;
+}
+
+.why-distrio .why-card .why-card-item .content-title {
+  padding: 23px 20px 0 20px;
+}
+
+.why-distrio .why-card .why-card-item .content-title .title-card {
+  font-size: 24px;
+  font-weight: bold;
+  color: #50e3c2;
+}
+
+.why-distrio .why-card .why-card-item .content-title .content-card {
+  margin: 15px 0 0 0;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.43;
+  color: #464646;
+}

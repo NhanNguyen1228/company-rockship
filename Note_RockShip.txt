@@ -1,0 +1,28 @@
+﻿Year: 2019
+---------------------- Project Sub-60 -------------------------
+* Day 14/10:
+  - flex: 1
+
+* Day 15/10:
+  - object destructuring
+  - eslint self closing comp => Xem để điều chỉnh code.
+  - Chú ý: đọc document viết cái gì.
+  - Table: https://mdbootstrap.com/docs/react/tables/datatables/
+
+* Day 16/10:
+  - lodash -> pick
+  - asynx ; await
+  - coi lại: 
+	+ cách bỏ một folder API vào post main	
+	+ chú ý dùng lại token
+
+* Day 23/10:
+  - uuid
+  - ref reactjs
+
+* fixbug:
+ - chú ý đến điều kiện rổng của một vấn đề => nhớ phải xét trường hợp rổng.
+
+* fetch data dùng Hook trong Sub-60
+- order.js -> OrderAccepted.js -> InfoCustomer.js
+
